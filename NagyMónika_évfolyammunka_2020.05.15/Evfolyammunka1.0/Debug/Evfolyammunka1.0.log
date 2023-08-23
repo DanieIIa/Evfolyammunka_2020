@@ -1,0 +1,46 @@
+﻿  MyForm.cpp
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(410,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(427,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(445,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(454,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(440,13): warning C4101: 'd': unreferenced local variable
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(532,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(554,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(577,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(591,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(569,13): warning C4101: 'd': unreferenced local variable
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(674,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(692,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(752,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(774,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(836,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl.h(838,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(989,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(993,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(999,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1003,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1007,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1011,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1021,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1025,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1028,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1032,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1037,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1041,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MyUserControl1.cpp
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyForm.h(457,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(989,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(993,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(999,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1003,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1007,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1011,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1021,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1025,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1028,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1032,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1037,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Evfolyammunka1.0\MyUserControl1.h(1041,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Evfolyammunka1.0.vcxproj -> C:\Users\PC\source\repos\Nagy Daniella\4\Evf.javitott.j\Debug\Evfolyammunka1.0.exe

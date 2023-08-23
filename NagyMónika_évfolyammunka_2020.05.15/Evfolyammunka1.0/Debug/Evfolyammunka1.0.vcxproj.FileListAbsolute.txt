@@ -1,0 +1,15 @@
+C:\Users\danie\source\Evfolyammunka1.1\Evfolyammunka1.0\Debug\Evfolyammunka1.0.vcxprojAssemblyReference.cache
+C:\Users\danie\source\Evfolyammunka1.1\Evfolyammunka1.0\Debug\Evfolyammunka10.MyForm.resources
+C:\Users\danie\source\Evfolyammunka1.1\Evfolyammunka1.0\Debug\Evfolyammunka10.MyUserControl.resources
+C:\Users\danie\source\Evfolyammunka1.1\Evfolyammunka1.0\Debug\Evfolyammunka10.MyUserControl1.resources
+C:\Users\danie\source\Evfolyammunka1.1\Evfolyammunka1.0\Debug\Evfolyammunka1.0.vcxproj.GenerateResource.cache
+C:\Users\danie\Desktop\Evfolyammunka1.1\Evfolyammunka1.0\Debug\Evfolyammunka1.0.vcxprojAssemblyReference.cache
+C:\Users\danie\Desktop\Evfolyammunka1.1\Evfolyammunka1.0\Debug\Evfolyammunka10.MyForm.resources
+C:\Users\danie\Desktop\Evfolyammunka1.1\Evfolyammunka1.0\Debug\Evfolyammunka10.MyUserControl.resources
+C:\Users\danie\Desktop\Evfolyammunka1.1\Evfolyammunka1.0\Debug\Evfolyammunka10.MyUserControl1.resources
+C:\Users\danie\Desktop\Evfolyammunka1.1\Evfolyammunka1.0\Debug\Evfolyammunka1.0.vcxproj.GenerateResource.cache
+C:\Users\danie\Desktop\Evf.javitott\Evfolyammunka1.0\Debug\Evfolyammunka1.0.vcxprojAssemblyReference.cache
+C:\Users\danie\Desktop\Evf.javitott\Evfolyammunka1.0\Debug\Evfolyammunka10.MyForm.resources
+C:\Users\danie\Desktop\Evf.javitott\Evfolyammunka1.0\Debug\Evfolyammunka10.MyUserControl.resources
+C:\Users\danie\Desktop\Evf.javitott\Evfolyammunka1.0\Debug\Evfolyammunka10.MyUserControl1.resources
+C:\Users\danie\Desktop\Evf.javitott\Evfolyammunka1.0\Debug\Evfolyammunka1.0.vcxproj.GenerateResource.cache
